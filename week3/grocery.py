@@ -14,4 +14,4 @@ while True:
 
 
 for w, c in sorted(l1.items()):
-    print(f'{c} {w.upper()}')
+    print(f'{c} {w}')
